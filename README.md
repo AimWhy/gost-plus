@@ -1,5 +1,10 @@
 # GOST-PLUS
 
+> **⚠️ DEPRECATED** — This project has been replaced by **[Wisper](https://github.com/go-gost/wisper)** and is no longer maintained.
+> Wisper is the successor to GOST-PLUS, providing the same tunnel management functionality
+> as a modern web UI + Go backend with desktop (Linux/Windows) and Android support.
+> Please migrate to [Wisper](https://github.com/go-gost/wisper).
+
 A cross-platform GUI client for [GOST.PLUS](https://gost.plus) built with [gioui](https://gioui.org).
 
 ## Features
